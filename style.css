@@ -1,0 +1,19 @@
+h1{
+  font-family: Monospace;
+}
+.ls{
+  padding: 50px 100px 50px 100px;
+  font-size: 20px;
+  background-color: lightgrey;
+}
+.wh{
+  padding: 50px 300px 50px 300px;
+  background-color: lightblue;
+}
+.imag{
+  width: 100%;
+}
+.img-pad{
+  padding: 50px 50px 50px 50px;
+  background-color: grey;
+}
